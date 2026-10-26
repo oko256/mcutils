@@ -1,3 +1,8 @@
+/**
+ * SPDX-License-Identifier: MIT
+ * Copyright 2026 Olli Kokko <https://github.com/oko256/mcutils>
+ */
+
 #include "fast_ring_buffer.h"
 #include <cmsis_compiler.h>
 

@@ -1,3 +1,8 @@
+/**
+ * SPDX-License-Identifier: MIT
+ * Copyright 2026 Olli Kokko <https://github.com/oko256/mcutils>
+ */
+
 #include "stack_monitor.h"
 #include <cmsis_compiler.h>
 

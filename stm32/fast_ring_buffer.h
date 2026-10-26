@@ -6,7 +6,7 @@
  * locking.
  *
  * SPDX-License-Identifier: MIT
- * Copyright (c) 2026 oko256 <https://github.com/oko256/mcutils>
+ * Copyright 2026 Olli Kokko <https://github.com/oko256/mcutils>
  */
 #pragma once
 
